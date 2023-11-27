@@ -1,0 +1,46 @@
+.total,.total1{
+  font-family: Arial, sans-serif;
+  /* margin: 44px; */
+  padding: 0px;
+  display: flex;
+  justify-content: center;
+  align-items: center;
+  height: 100vh;
+}
+/* Body{
+  background-image: url('https://www.goteso.com/products/assets/images/twitter-cards/supermarket-billing-software.jpg');
+  background-repeat: no-repeat;
+  background-size: cover;
+
+} */
+
+h2 {
+  text-align: center;
+}
+
+Box {
+  margin-bottom: 19px;
+}
+
+input[type="text"],
+input[type="password"] {
+  width: 100%;
+  padding: 10px;
+  border-radius: 5px;
+  border: 2px solid #f0f0f0;
+}
+
+button {
+ margin-left: 32%;
+ margin-top: 8px;
+  padding: 14px;
+  border:#f0f0f0;
+  border-radius: 3px;
+  background-color:blue;
+  color: #fff;
+  cursor: pointer;
+}
+
+button:hover {
+  background-color: #0056b3;
+}

@@ -1,0 +1,104 @@
+.item{
+  
+  background-color:lightcyan;
+}
+.bitem{
+  margin-right: 250px;
+}
+.aa{
+     background-color:lightcyan;
+    padding: 100px;
+    border-radius: 10px;
+    box-shadow: 0px 0px 30px rgba(0, 0, 0, 0.8);
+    background-color:rgb(256,256,256,0.85);
+  }
+.bb{
+    background-color:rgb(256,256,256,0.85);
+     padding: 50px;
+    border-radius: 10px;
+    box-shadow: 0px 0px 30px rgba(0, 0, 0, 0.8);
+  }
+  .icon{
+    text-align: center;
+    padding-bottom: 20px;
+  }
+  .PP {
+    border-style: solid; /* or dashed, dotted, etc. */
+    border-width: 2px; /* You can adjust the width */
+    border-color: red; /* You can change the color */
+  }
+  .check1{
+    margin-left:25px; 
+  }
+  .total1{
+    /* background-color:red;  */
+    background-repeat: no-repeat;
+    background-image: url('https://retailcloud.com/assets/img/og/btype/grocery/grocery-pos-og.png');
+    background-size: cover; 
+  } 
+  .total{
+    
+    /* background-image: url('https://www.goteso.com/products/assets/images/twitter-cards/supermarket-billing-software.jpg');  */
+    background-image: url('https://www.haygarth.co.uk/getmedia/5b3e1182-a201-487a-9cc7-f8b9eefafb15/commerce.png?width=1200'); 
+    background-repeat: no-repeat;
+    background-size: cover; 
+  }
+  .hi{
+     
+   background-size: cover;
+  }
+  .giri
+  {
+    background-color: 'red';
+    /* height: 75vh; */
+  }
+  .foot{
+    background-size: cover;
+    background-image: url("https://i.pinimg.com/originals/9f/8b/e6/9f8be61ac437b051bef5a05792738cb8.png");
+    height: 20vh;
+
+  }
+  .site-footer {
+    background-image: url('data:image/jpeg;base64,/9j/4AAQSkZJRgABAQAAAQABAAD/2wBDAAsJCQcJCQcJCQkJCwkJCQkJCQsJCwsMCwsLDA0QDBEODQ4MEhkSJRodJR0ZHxwpKRYlNzU2GioyPi0pMBk7IRP/2wBDAQcICAsJCxULCxUsHRkdLCwsLCwsLCwsLCwsLCwsLCwsLCwsLCwsLCwsLCwsLCwsLCwsLCwsLCwsLCwsLCwsLCz/wAARCABxAXcDASIAAhEBAxEB/8QAGgABAQEBAQEBAAAAAAAAAAAAAAECBQMGBP/EAEIQAAIBAgIFCQQGBwkAAAAAAAABEQIhMUEFBhJRtAMEBzZhcXWBkSImhbEWMkKhwfATFCU0UnLhFSQzNWKClNHx/8QAGAEBAQEBAQAAAAAAAAAAAAAAAAEEAgP/xAAaEQEAAwEBAQAAAAAAAAAAAAAAAQMxETIC/9oADAMBAAIRAxEAPwD4LWXrHrR43pXiuUOSdbWXrHrR43pXiuUOSb4x5gAKAAAAAAAAgAAAAAbwN4AAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAADeBvAAAAAwB9Z0ddcdAfEOB5wCdHXXLQHxDgecAy3enfy5Wsqf0j1o8b0rxXKHJhnX1l6x60eN6V4rlDkmmMRIYRQVFAAUAAAC4AAMACNO5QBkQzdoMhEAAAAgRQQoEAAVQVACCGVACArJAACBAC4hlAEhiGUAQCAAAgABvuCbwikAAFIAPrOjrrloD4hwPOAOjrrloD4hwPOAZbvTv5cvWXrHrR43pXiuUOUdXWVe8etHjWleK5Q5JpjEUCBBQALAEhgsMNBEAAUsCwIeQRIuVtRAWJYAyC7LctKxGAeRk00ZAAAghQAAAuBpAie80rhUBdkQVEBojQEuC5CJAyURZFgKyUsCAjLvgS56JYiEBKaZnuZXTCsVJ+1lZ/gFLknR5b7EjG57NLZqj0PONxOjIPRcnN8DDSTaL0SQGWlpTP/AKOj6vo665aA+IcDzgDo7fvloCMP2hwPOAZrvTuHM1l6x60eN6V4rlDkuDrayr3i1o8a0rxXKHJNMY4B2A1YoyUsIjgCrMEL3gRNoXbbLYAG4CZKiMguZcjMj7x0aTsSxneQdGmSGLsoEhkhmhYDMMsP8spSDMMQzRVAGMHc0miVYoyB6TOAM05+RphRiGEGyg0zTlJXyIoa8y1fZjd+IRJtixL7fUyVAXae9iqJ8lPoILUr+S+QGVn3moRhxhcLO4G19r+V/gFUqVhcwpl3yZtp0rad8CKnKK21hIVS2G88BVUqqYauecLfefIiCqazZltt1Pe5K0yAHcnZexpL2qcrrE3yjobcJys1Yo+o6OV746AeX7Q4HnANdHVdL1w0BSk1/mHA84Bmt13Dmay9YtaPGtKcVyhyYOtrIveLWfxrSnFcoco1RjhkGsiMoSRlSLnYCIFD3gFF5GGAM3yIJ7KnEtLTnaLYmyiCTcCFtdxQrMsSoNQSEBEaAAAn9DUEEBd8CAIUQEoAzXaPSDJurGc8TIQhhKosOArWm4GlgGEoXzIBabyV2VN8vxIu/M03am32fxAyrQxDywK7hJIdGocLNyWtPafYl8iWtDib2LW/ah7lfyAxEpvcRpW+89cEZdKmcmOhCoUxMyKnNLi4dVMXeJlxaKcFPeFZZFTVU4X3n6Fs1UppI8am3Va25oI1sU001ZuGeGB7Ot4OHKiUZ/RVPOn1A85jDHcb5SqUqUsrstColbUbXbgTlKIbaeLsn+AV9R0ddctX/iHA84BejrrloD4hwPOAZ7ddQ52snWLWjxrSvFcock6+sl9YtZ/GtKcVyhyksDVGOEFtxp0qlT5GCiyJEwGvywAtF0PT5kbuBZp3P1PZbOysIg8RkQHi4wBHUNogmczuGJQBCFE3ChJRWrSZziCI1NNu0qcNNYpyjNNm3uLtdgG+19+EGZeDfdORXW4Uv/TjksjMpgVwLQNpbDpim7TmL9xmcgNRKM1J2j7jSqawcZWCTqdomAMqcyql2vEyXAN/V7n8wqpLOpejGzT/ABL0YV+9hynDCGyv416MPJTMKJLDACGI7Cuom12AINNOfKm/kEpxselcJPdFP3JAeSpbd3Y1WlsqLQzKczBZdSa8wJTQndk5Sl2ast5JYmp2d1ICltSlmoMVSnDtuPeh05eh51Q6qp7l5Aed3b7zSrey15Il5sTBRG8CrZiWrrCSVL2lFVTwmxm67ohm/wBJ7EKzwA+s6PXyb1z0BCe1+0O79x5wCdHT98dBLf8Ar7X/AAecAz267hzNZOsOs/jWleK5Q5SxR1dZeses/jWlOK5Q5RqjHLTcowVb9wllQRG25NS3Z/lmadluKm0uzeAuTMqUvHeS9iDQ/NjSpTpqqb+rlvImsYhq6gisNb0JcQHLbbxeICKogpIKAUJqbzJl4yaIFRuxMUt5qCqIc0pyoTc27oIMqIbbvMKl5zmSN2JqMd2PcRXdnEX3egRGmrNXlp2zLTTKqcwljLU7rIVKUm228ap3iGBL2cNJ4N5kZqXYtKVTSbSTcNvBdoUhQt4gtSScUuUm1OT7UZcyEaeRGpVPc/mWmHjkVu1MdvzKIrDFy3cXFyDWBJJclwKwLgCyzTdTbpmzpp+SMXNylVg8F8kATphqIfaFCppw7TNTTMXA3UknM4iG8I9UjMGXGa9SjdFNW153ui7Lmqd92Wh8mkohPOxW6dralRFyDyqVVL7MjGObParlaMMTxecYARhUuqYUwiM3Q1TUnKczPYUfV9HNL+mOgnVZ/wB/icf3HnAN9HlD+mOgaqqpb/tBqMI/UecAzW67hytZesOs3jeluK5Q5IBpjHKr6r8jOYBRViu9EeP+5gAXNGq8KACAv8OrvRhfXq/lqAAgzAA2TeAA3lyq70ABAASRVg/5TO4AQK/qoqxAAz/Uf1AKC+z3B4gAF/0aeFPn8wCAirMASBACCmXmAUU1Vj5L5IADzYAKKZYABYMVfU80ABhDMACbyLB9yAEI+z6Pet+rndpDgeXABmt13D//2Q==');/* Change this color to your desired background color */
+    color: #fff;
+    padding: 30px 0;
+    height: auto;
+    background-size: cover;
+}
+
+.social-icons a {
+    font-size: 24px;
+    margin: 0 10px;
+    text-decoration: none;
+    color: #fff;
+    transition: color 0.3s ease-in-out;
+}
+
+.text-white:hover{
+    color:rgb(139, 0, 90);
+}
+
+.text-white1:hover{
+    color:rgb(0, 102, 255);
+}
+
+.text-white2:hover{
+    color:red;
+}
+
+.text-white3:hover{
+    color:green;
+}
+table {
+  border-collapse: collapse;
+  width: 80%;
+  align-items: center;
+}
+
+th, td {
+  padding: 8px;
+  text-align: center;
+  border: 3px solid ghostwhite;
+}
+
+tr:hover {background-color:aquamarine;}

@@ -1,0 +1,79 @@
+{
+  "login": [
+    {
+      "Name": "GOUSIK RAM",
+      "Password": "2222",
+      "email": "gousikram10@gmail.com",
+      "mobile": "08610815862",
+      "id": 1
+    },
+    {
+      "Name": "gousik",
+      "Password": "1111",
+      "email": "727722euit055@skcet.ac.in",
+      "mobile": "08610815862",
+      "id": 2
+    }
+  ],
+  "vegetables": [
+    {
+      "productname": "carrot",
+      "productamt": "30",
+      "quantity": "1kg",
+      "id": 1
+    },
+    {
+      "productname": "tomato",
+      "productamt": "100",
+      "quantity": "1kg",
+      "id": 2
+    },
+    {
+      "productname": "onion",
+      "productamt": "250",
+      "quantity": "1kg",
+      "id": 3
+    },
+    {
+      "productname": "cabbage",
+      "productamt": "200",
+      "quantity": "1kg",
+      "id": 4
+    },
+    {
+      "productname": "pumkin",
+      "productamt": "100",
+      "quantity": "1pi",
+      "id": 5
+    }
+  ],
+  "grocerys": [],
+  "fruits": [
+    {
+      "productname": "banana",
+      "productamt": "150",
+      "quantity": "1kg",
+      "id": 1
+    },
+    {
+      "productname": "apple",
+      "productamt": "300",
+      "quantity": "1kg",
+      "id": 2
+    },
+    {
+      "productname": "grapes",
+      "productamt": "600",
+      "quantity": "1kg",
+      "id": 3
+    }
+  ],
+  "station": [
+    {
+      "productname": "pencil",
+      "productamt": "10",
+      "quantity": "1 pcs",
+      "id": 1
+    }
+  ]
+}
